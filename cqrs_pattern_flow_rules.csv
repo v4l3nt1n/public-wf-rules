@@ -1,0 +1,2 @@
+﻿event_name,event_type,workflow
+EvaluateLoadTenderDecisionAndPricingCalculation,COMMAND,SimpleTestWF
